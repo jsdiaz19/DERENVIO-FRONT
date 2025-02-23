@@ -1,0 +1,16 @@
+.form-field + .form-field{
+    margin-top: 3%;
+}
+
+.form-field{
+    display: flex;
+    flex-direction: column;
+}
+
+.error{
+    color: red;
+}
+
+table{
+    margin-top: 3%;
+}
